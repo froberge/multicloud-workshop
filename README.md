@@ -66,7 +66,7 @@ with
 
 ##### Multiple changes needs to be made.
 
-1. The camel-k annotation need to be change in  _TollStationEventConsumer.java_ for the lab to work.
+1. The camel-k annotation (modeline) need to be change in  _TollStationEventConsumer.java_ for the lab to work.
 
     Replace
     ` //camel-k: ... `
