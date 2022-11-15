@@ -17,13 +17,13 @@ This workshop is a series of hands-on modules which are designed to guide partic
 1. One OCP environment on Microsoft Azure
 2. One OCP environment on AWS.
 
-:warning: The 2 workshops are partcof the Redhat RHPDS offering. 
+:warning: The 2 workshops are part of the Redhat RHPDS offering. 
 
 __To complete the workshops some changes needs to happen__
 
 ---
 
-### Administration changes.
+### Administration changes - not required for participants.
 
 The _Red Hat Integration_ Operator provision with the workshops need to be change to version __1.8.X__.
 
@@ -50,7 +50,7 @@ No changes required
 
 ##### One change needs to be made.
 
-The camel-k annotation need to be change in  _MeterConsumer.java_ for the lab to work.
+The camel-k annotation (modeline) need to be change in  _MeterConsumer.java_ for the lab to work.
 
 Replace
 ` //camel-k: ... `
@@ -84,7 +84,7 @@ with
 
     :warning: don't forget to replace {username} with your username.
 
-1. In the manage Kafka ckuster we need to create the edge-toll-station-events topic manually.
+1. In the manage Kafka cluster we need to create the edge-toll-station-events topic manually.
 
     * Go to the your [manage cluster](https://console.redhat.com/application-services/streams/kafkas) 
 
