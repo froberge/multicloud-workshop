@@ -23,7 +23,7 @@ This workshop is a series of hands-on modules which are designed to guide partic
 
 ### Lab credential:
 
-* url : https://users-registration.apps.cluster-vlc8h.vlc8h.sandbox2113.opentlc.com
+* url : { From the AWS complete provisionning email}
 * Username: email use for registration
 * Password: hybridcloud
 
