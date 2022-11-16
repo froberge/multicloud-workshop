@@ -19,6 +19,16 @@ This workshop is a series of hands-on modules which are designed to guide partic
 
 :warning: The 2 workshops are part of the Redhat RHPDS offering. 
 
+---
+
+### Lab credential:
+
+* url : https://users-registration.apps.cluster-vlc8h.vlc8h.sandbox2113.opentlc.com
+* Username: email user for registration
+* Password: hybridcloud
+
+---
+
 __To complete the workshops some changes needs to happen__
 
 ---
